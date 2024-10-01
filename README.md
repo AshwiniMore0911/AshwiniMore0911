@@ -1,4 +1,5 @@
-Hi there 👋 I’m Ashwini More, a Data Scientist with a passion for machine learning and AI. I hold a Master’s in Data Analytics from Northeastern University, specializing in AI/ML, and a Bachelor's in Computer Science from Pune University.
+Hi there 👋
+I’m Ashwini More, a Data Scientist with a passion for machine learning and AI. I hold a Master’s in Data Analytics from Northeastern University, specializing in AI/ML, and a Bachelor's in Computer Science from Pune University.
 
 In my recent role as a Data Science Intern at Feastech Data Corp, I contributed to optimizing disaster response by working on large-scale language models(LLMs), utilizing NLP techniques to prepare and integrate data for improved decision-making. This helped streamline processes and enhance user engagement.  Before that, I worked as a Data Scientist at WE33RAS Pvt Ltd., where I focused on improving digital marketing performance and customer behavior analysis. I led initiatives that enhanced marketing efficiency, optimized budget allocation, and boosted overall campaign performance. I also developed predictive models that provided valuable insights, driving data-driven decisions in SEM campaigns.
 
